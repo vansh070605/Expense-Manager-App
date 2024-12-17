@@ -120,7 +120,7 @@ This project is licensed under the MIT License.
 ## Contact  
 For questions or contributions, please contact:  
 **Vansh Agrawal** - [vansh070605@gmail.com]  
-**GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+**GitHub**: [https://github.com/vansh070605](https://github.com/vannsh070605)
 
 ---
 
