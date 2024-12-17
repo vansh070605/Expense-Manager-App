@@ -121,7 +121,3 @@ This project is licensed under the MIT License.
 For questions or contributions, please contact:  
 **Vansh Agrawal** - [vansh070605@gmail.com]  
 **GitHub**: [https://github.com/vansh070605](https://github.com/vannsh070605)
-
----
-
-Let me know if you'd like me to customize this further! 🚀
